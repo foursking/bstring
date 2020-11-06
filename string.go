@@ -1,5 +1,5 @@
-// Package ffstring provides String related operations
-package ffstring
+// Package bstring provides String related operations
+package bstring
 
 import (
 	"bytes"

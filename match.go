@@ -1,4 +1,4 @@
-package ffstring
+package bstring
 
 import "unicode/utf8"
 

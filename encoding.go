@@ -1,4 +1,4 @@
-package ffstring
+package bstring
 
 import (
 	"bytes"
